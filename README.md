@@ -30,7 +30,7 @@ The main objective of this sales analysis project appears to be to assess and vi
 
 ### Glimpse of my Dashboard:
 <p align="center">
-  <img width="100%" src="Sales_Dashboard.png" />
+  <img width="100%" src="Dashboard_Sales.png" />
 </p>
 
 
